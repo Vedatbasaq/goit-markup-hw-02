@@ -85,6 +85,7 @@ menu:active {
   line-height: 1.07;
   letter-spacing: 0.02em;
 }
+
 .order_button {
   font-family: 'Roboto', sans-serif;
   text-align: center;
@@ -196,6 +197,6 @@ footer {
   color: #4d5ae5;
   text-transform: uppercase;
 }
-.footer-logo_second {
+.footer-logo-second {
   color: #f4f4fd;
 }
